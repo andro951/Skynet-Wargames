@@ -1,6 +1,6 @@
-//Name: Skynet HK-Aerial hunting program.
+//Name: Skynet Wargames.
 //Author: Isaac Richards.
-//Date: 13OCT18.
+//Date: 15OCT18.
 
 //Header.
 #include <iostream>
